@@ -1,0 +1,13 @@
+.userCard {
+    display: block;
+    text-align: center;
+    margin: 0 auto 3em;
+}
+
+.userCard p {
+    line-height: 1;
+}
+
+.avatar {
+    border-radius: 50%;
+}
